@@ -82,6 +82,15 @@ body {
 		font-size: 15px;
 	}
 
+	#intro p a:link, a:visited{
+		color: black;
+		text-decoration: none;
+	}
+
+	#intro p a:hover{
+		text-decoration: underline;
+	}
+
 
 footer {
 	background-color: #b0b0b0;
@@ -98,3 +107,5 @@ footer {
 	margin-right: auto;
 	width:60%;
 }
+
+
