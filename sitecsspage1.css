@@ -4,6 +4,8 @@ By Arka Ganguli */
 body {
 	margin: 2% 20%;
 	font-family: Helvetica, Georgia;
+	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
+	/*background pattern from www.patternify.com*/
 }
 
 #header {
